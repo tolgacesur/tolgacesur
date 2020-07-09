@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="me.gif" height='200' widht='400' alt="me" style="margin-right: -10px" />
-    <img src="heart.gif" height='200' widht='400' alt="heart" style="margin-right: -10px" />
-    <img src="github.gif" height='200' widht='400' alt="github" />
+    <img src="https://raw.githubusercontent.com/tolgacesur/tolgacesur/master/me.gif" height='200' widht='400' alt="me" style="margin-right: -10px" />
+    <img src="https://raw.githubusercontent.com/tolgacesur/tolgacesur/master/heart.gif" height='200' widht='400' alt="heart" style="margin-right: -10px" />
+    <img src="https://raw.githubusercontent.com/tolgacesur/tolgacesur/master/github.gif" height='200' widht='400' alt="github" />
 </div>
 
 # Hey, I'm Tolga Cesur 👋
